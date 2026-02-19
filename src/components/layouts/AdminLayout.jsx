@@ -4,7 +4,7 @@ import AdminHeader from "./AdminHeader";
 import { useEffect, useState } from "react";
 import { toast } from "react-toastify";
 import { MoonLoader } from "react-spinners";
-import ChatWidget from "../Coach/Chat/ChatWidget";
+import ChatWidget from "../coach/chat/ChatWidget";
 // import CropBubble from "../pages/CropBubble";
 
 
