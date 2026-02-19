@@ -1,7 +1,7 @@
 import { useEffect, useState, useRef } from "react";
 // import { io } from "socket.io-client";
 import axios from "axios";
-import socket from "../../../services/SocketService";
+import socket from "../../../services/socketService";
 import ApiService from "../../../services/ApiService";
 
 
